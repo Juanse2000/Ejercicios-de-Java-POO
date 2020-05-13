@@ -10,7 +10,7 @@ public class Entrada {
         int valor1, valor2;//Creamos variables
         int operacion;//Creamos variable operacion
         
-        System.out.println("Esta es una calculadora");
+        System.out.println("Esta es una calculadora muy genial!");
         System.out.println("Eliga que operacion quiere ejecutar");
         System.out.println("1 (suma) | 2 (resta) | 3 (multiplicacion) | 4 (division)");
         operacion = entrada.nextInt();//Guardamos la variable para elegir una opcion de operacion
